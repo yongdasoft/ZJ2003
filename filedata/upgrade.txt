@@ -40,7 +40,9 @@
 0;1-3;zj2003.dbi;filedata\zj2003.dbi;%App_Path%\zj2003.dbi;;1;4
 
 ;-----土建库------
-0;1-1;第一章 土石方工程.mld;filedata\定额库\2003土建\第一章 土石方工程.mld;%DataBase_Path%\定额库\2003土建;;1;2
+0;1-1;第一章 土石方工程.mld;filedata\定额库\2003土建\第一章 土石方工程.mld;%DataBase_Path%\定额库\2003土建\第一章 土石方工程.mld;;1;2
+
+
 
 
 
